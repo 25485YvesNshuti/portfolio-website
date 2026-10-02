@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Nshuti Yves portfolio preview">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#2e3a90"/>
+      <stop offset="100%" stop-color="#e85f81"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="240" cy="220" r="120" fill="rgba(255,255,255,0.12)"/>
+  <circle cx="1050" cy="120" r="90" fill="rgba(255,255,255,0.10)"/>
+  <circle cx="970" cy="500" r="150" fill="rgba(255,255,255,0.08)"/>
+  <rect x="110" y="112" width="165" height="165" rx="42" fill="rgba(255,255,255,0.14)"/>
+  <text x="120" y="235" font-size="84" font-family="Arial, Helvetica, sans-serif" font-weight="800" fill="white">NY</text>
+  <text x="110" y="370" font-size="62" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="white">Nshuti Yves</text>
+  <text x="110" y="440" font-size="28" font-family="Arial, Helvetica, sans-serif" fill="rgba(255,255,255,0.9)">Junior developer · Software tester</text>
+  <rect x="110" y="486" width="385" height="52" rx="26" fill="rgba(255,255,255,0.15)"/>
+  <text x="145" y="520" font-size="24" font-family="Arial, Helvetica, sans-serif" fill="white">Java · Spring Boot · React</text>
+</svg>
